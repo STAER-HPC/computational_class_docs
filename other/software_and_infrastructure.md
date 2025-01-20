@@ -1,0 +1,1 @@
+Ssoftware and infrastructure
