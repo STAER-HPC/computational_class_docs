@@ -2,8 +2,8 @@
 
 ## Step-by-Step Instructions
 
-1. **Ensure Both Devices are Powered On**
-   - Make sure the Clevertouch display and your laptop are both turned on.
+1. **Interactive Board Turned On**
+   - Make sure the Clevertouch display is turned on.
 
 2. **Launch Clevershare on Your Laptop**
    - Open the Clevershare application on your laptop. If not installed, download it from the Clevertouch website and follow the installation instructions.
@@ -12,14 +12,15 @@
    - On the Clevertouch display, find the connection code displayed at the top of the screen.
    - Enter this code in the Clevershare application on your laptop to establish the connection.
 
-4. **Allow Access on Clevertouch**
-   - Confirm any prompts on the Clevertouch display to allow the laptop connection.
+   ![Some text](https://github.com/STAER-HPC/computational_class_docs/blob/main/img/clever_share/Clever_share_caputre.png?raw=true)
 
 5. **Start Mirroring the Screen**
    - Use the Clevershare app on your laptop to select the option to mirror the Clevertouch screen.
-   - Confirm that the screen is mirrored successfully on your laptop.
+   - Start Desktop Sync your computer screen to the interactive board.
+
+   ![Desktop sync](https://github.com/STAER-HPC/computational_class_docs/blob/main/img/clever_share/Clever_share_connected_caputre.png?raw=true)
 
 > [!NOTE]
 > If your laptop is connected via Wi-Fi, there might be a slight delay in the mirrored display. For optimal performance, consider using a wired connection.
 
-These steps will help you mirror the Clevertouch screen on your laptop efficiently. If you encounter issues, consult the Clevershare user guide or contact the responsible person.
+If any technical issues arise, please contact the responsible person for assistance.

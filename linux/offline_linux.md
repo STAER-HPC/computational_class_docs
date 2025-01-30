@@ -5,33 +5,37 @@
 
 ## Accessing Linux on the Auditorium Computers
 
-> [!NOTE]
-> These compute units run a Linux host system with Windows as a virtual machine. You may need to switch from the Windows interface to access Linux.
-
 1. **Switch to Linux Session**
-   - If the Windows login screen is visible, press `Ctrl + Alt + F2` to switch to the Linux terminal.
+   - If the Windows login screen is visible, press "Disconnect" to access the Linux terminal.
 
-2. **Log in with Your Skoltech Account**
-   - Enter your Skoltech account username and password, which are the same as your Skoltech email credentials.
+2. **Log in with One of the Accounts**
+   > [!IMPORTANT]
+   > Do not use Skoltech login data. Only local accounts!
+
+   Enter your local account, NOT SKOLTECH data. Choose your login from stud01 to stud30, for example, stud09. The password is the same for all accounts.
+
+   ```
+   login: stud[01-30]
+   password: skolstud
+   ```
 
 3. **Session Management**
-   - Always **log out** after your session. Do not shut down the system.
+   - Always **Log out** after your session.
 
-   > ![Screenshot Required](#) - **Insert a screenshot of the Linux login prompt here.**
+   > [!WARNING]
+   > Do not shut down the system!
 
-   > [!IMPORTANT]
-   > Properly logging out keeps the system ready for the next user and maintains system stability.
-
-## Use of Shared Storage
-
-> [!CAUTION]
-> Local data on the machine will be deleted within 30 days. To save your data, transfer it to your folder on the shared storage system.
-
-   Information regarding the location of the shared storage and access instructions should be provided.
+   ![Log out Linux](https://github.com/STAER-HPC/computational_class_docs/blob/main/img/linux/log-out.png?raw=true)
 
 ## Continuing Processes in the Background
 
 > [!IMPORTANT]
 > You can continue running processes in the background and even connect remotely later to continue your work.
 
-   Instructions on how to log off properly should be included.
+## Starting Windows or Linux on this or Another Computer in the Auditorium from Linux
+
+1. **Click on the menu bar in the lower left corner of the screen**
+
+2. **Choose one of the required Linux or Windows machines**
+
+   ![Desktop sync](https://github.com/STAER-HPC/computational_class_docs/blob/main/img/linux/connect-to-remote-windows.png?raw=true)

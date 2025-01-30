@@ -1,47 +1,49 @@
-# Translating from Clevertouch to Videowall
+# Translating from Interactive Board to Videowall
 
-## Starting Clevertouch and Clevershare
+## Starting Interactive Board and Clevershare
 
-1. **Power On Clevertouch and Teacher's Computer**
-   - Ensure the Clevertouch display and the teacher's computer are powered on.
+1. **Power On the Interactive Board**
+   - Ensure both the interactive board and the instructor's computer are powered on.
 
-2. **Log In to the Teacher's Computer**
+2. **Log In to the Instructor's Computer**
    - Use your Skoltech account credentials to log in.
-   - Wait until all applications have started up completely.
+   - Wait until all applications have fully started up.
 
-3. **Launch Clevershare**
-   - Open the Clevershare application on your computer.
+3. **Power On the Videowall**
+   - Locate the power button on the videowall software, pcCUE, and turn it on.
 
-4. **Connect to Clevertouch**
-   - Enter the PIN code displayed at the top of the Clevertouch screen into the Clevershare app.
-   - Start mirroring your computer screen to the Clevertouch.
+   ![Videowall Power On](https://github.com/STAER-HPC/computational_class_docs/blob/main/img/clever_share/videowall_on.png?raw=true)
 
-5. **Screen Recording Setup**
-   - Allow the first connection to record the screen.
-> [!NOTE]
-> This is only required for the initial connection.
+4. **Launch Clevershare**
+   - Open the Clevershare application on the instructor's computer.
+
+5. **Connect to the Interactive Board**
+   - Enter the PIN code displayed at the top of the interactive board screen into the Clevershare app.
+   - Start Desktop Sync your computer screen to the interactive board.
+
+   ![Enter PIN code](https://github.com/STAER-HPC/computational_class_docs/blob/main/img/clever_share/Clever_share_caputre.png?raw=true)
+
+   ![Desktop sync](https://github.com/STAER-HPC/computational_class_docs/blob/main/img/clever_share/Clever_share_connected_caputre.png?raw=true)
 
 6. **Position the Translated Screen**
    - Drag and position the mirrored screen onto the left monitor.
 
-7. **Turn On the Videowall**
-   - Power on the videowall using its power button.
 
 ## Finishing the Session
 
 > [!IMPORTANT]
-> Both the videowall and Clevertouch should be turned off after use to conserve energy and maintain equipment longevity.
+> Both the videowall and interactive board should be turned off after use to conserve energy and maintain equipment longevity.
 
-1. **Turn Off the Videowall**
-   - Press the "Off" button on the videowall.
+1. **Turn Off the Videowall After Finishing**
+   - Locate the power button on the videowall software, pcCUE, as shown in the picture above, and turn it off.
 
 2. **Close Clevershare**
-   - Exit the Clevershare application on your computer.
+   - Exit the Clevershare application on the instructor's computer.
 
-3. **Log Out of the Teacher's Computer**
+3. **Log Out of the Instructor's Computer**
    - Log out of your Skoltech account on the computer.
 
-4. **Power Off the Clevertouch**
-   - Briefly press the power button on the Clevertouch display to turn it off.
+4. **Power Off the Interactive Board**
+   - Briefly press the power button on the interactive board to turn it off.
 
-Following these steps will ensure a smooth setup and shutdown process, maintaining the equipment in good working order for future use. If issues arise, ask the responsible person.
+If any technical issues arise, please contact the responsible person for assistance.
