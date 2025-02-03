@@ -27,17 +27,15 @@ password: skolstud
 3. **Session Management**
    - Always **log out** after your session. Do not shut down the system.
 
-   > ![Screenshot Required](#) - **Insert a screenshot of the login screen here.**
-
    > [!IMPORTANT]
    > Properly logging out keeps the system ready for the next user and maintains system stability.
 
-## Use of Shared Storage ???
+## Use of Shared Storage
 
 > [!CAUTION]
 > Local data on the machine will be deleted within 30 days. To save your data, transfer it to your folder on the shared storage system.
 
-   Information regarding the location of the shared storage and access instructions should be provided.
+   Information regarding the location of the shared storage and access instructions will be provided.
 
 ## Continuing Processes in the Background
 
