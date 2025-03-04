@@ -46,21 +46,15 @@
    - Enter your Skoltech credentials in the format `<username>@skoltech.ru` and your Skoltech account password when prompted.
 
 4. **Session Management**
-   - Always **log out** after your session. Do not shut down the system.
-
    > [!IMPORTANT]
-   > Properly logging out keeps the system ready for the next user and maintains system stability.
+   > If you want to finish your session, use **log out**. If you want to continue some process on background use **Disconect** option
+
 
 ## Use of Shared Storage
 
 > [!CAUTION]
-> Local data on the machine will be deleted within 30 days. To save your data, transfer it to your folder on the shared storage system.
+> The windows virtual machines has restriction for a given space around 10GB. If you data exceed the limit, please use shared storage.
 
-   Information regarding the location of the shared storage and access instructions will be provided.
+The shared storage link is [Shared storage](https://sci.skoltech.ru/eng_class/storage)
 
-## Continuing Processes in the Background
 
-> [!IMPORTANT]
-> You can continue running processes in the background and even connect remotely later to continue your work. However, only one user can interact with the screen at a time. If you encounter a message indicating someone has declined your request to take control of Windows, please wait until they finish their work.
-
-Instructions on how to log off properly should be included.
