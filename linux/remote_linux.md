@@ -10,13 +10,6 @@
 
 2. **Using SSH for Remote Access**
 
-   To log in, use local account, NOT SKOLTECH data, for access for all the platforms. Choose your login from stud01 to stud30, for example, stud09. The password is the same for all accounts.
-
-      ```
-      login: stud[01-30]
-      password: skolstud
-      ```
-
    The hostname is given as
    b2007cel[01-05] for P5 machines [(link to the documentation)](https://sci.skoltech.ru/eng_class/software_and_infrastructure)
    b2007cel[06-21] for P3 machines [(link to the documentation)](https://sci.skoltech.ru/eng_class/software_and_infrastructure)
@@ -28,13 +21,12 @@
 
    ### On Linux:
    - **Step 1:** Open a terminal window.
-   - **Step 2:** Use the SSH command to connect, e.g., `ssh stud[01-30]@b2007cel[01-21]`, replacing and `b2007cel[01-21]` with the machine address.
+   - **Step 2:** Use the SSH command to connect, e.g., `ssh SKOLTECH\\student.name@b2007cel[01-21]`, replacing and `b2007cel[01-21]` with the machine address.
 
    ### On macOS:
-   - **Step 1:** Open the Terminal application.
-   - **Step 2:** Use the SSH command to connect, e.g., `ssh stud[01-30]@b2007cel[01-21]`.
+   - **Step 1:** Open a terminal window.
+   - **Step 2:** Use the SSH command to connect, e.g., `ssh SKOLTECH\\student.name@b2007cel[01-21]`, replacing and `b2007cel[01-21]` with the machine address.
 
-   > ![Screenshot Required](#) - **Insert a screenshot of the SSH setup or terminal command here for each operating system.**
 
 3. **Log in with Your Credentials**
    - Enter your Skoltech account username and password when prompted.
@@ -63,12 +55,15 @@
 
 2. **Using RDP for Remote Access**
 
-To log in, use a local account, NOT SKOLTECH data, for access across all platforms. Choose your login from stud01 to stud30, for example, stud09. The password is the same for all accounts.
+ - Enter your Skoltech account username and password, which are the same as your Skoltech email credentials.
 
    ```
-   login: stud[01-30]
-   password: skolstud
+   login: SKOLTECH\student.name
+   password: <your_password_for_skoltech_account>
    ```
+
+> [!IMPORTANT]
+> Enter you data as presented above with one "\\"!
 
 The hostname is given as:
    b2007cel[01-05] for P5 machines [(link to the documentation)](https://sci.skoltech.ru/eng_class/software_and_infrastructure)
@@ -81,7 +76,7 @@ The hostname is given as:
      - `b2007cel[01-05]` for P5 machines
      - `b2007cel[06-21]` for P3 machines
    - **Step 4:** Click "Connect" to initiate the connection.
-   - **Step 5:** Enter your data as `stud[01-30]` and password `skolstud`.
+   - **Step 5:** Enter your data as Skoltech credential as above.
 
    ### On Linux:
    - **Step 1:** Install an RDP client, such as `Remmina`, using your package manager (e.g., `sudo apt install remmina`).
@@ -91,7 +86,7 @@ The hostname is given as:
      - `b2007cel[06-21]` for P3 machines
    - **Step 4:** Configure the protocol as RDP and save the connection settings.
    - **Step 5:** Double-click on the saved connection to connect.
-   - **Step 6:** Enter your data as `stud[01-30]` and password `skolstud`.
+   - **Step 6:** Enter your data as Skoltech credential as above.
 
    ### On macOS:
    - **Step 1:** Download and install "Microsoft Remote Desktop" from the App Store.
@@ -102,16 +97,7 @@ The hostname is given as:
      - `b2007cel[06-21]` for P3 machines
    - **Step 5:** Click "Add" to save the connection.
    - **Step 6:** Double-click the saved PC to initiate the connection.
-   - **Step 7:** Enter your data as `stud[01-30]` and password `skolstud`.
-
-
-4. **Log in with Your Credentials**
-   - Always **Log out** after your session.
-
-   > [!WARNING]
-   > Do not shut down the system!
-
-   ![Log out Linux](https://github.com/STAER-HPC/computational_class_docs/blob/main/img/linux/log-out.png?raw=true)
+   - **Step 7:** Enter your data as Skoltech credential as above.
 
 ## Use of Shared Storage
 

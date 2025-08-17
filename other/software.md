@@ -11,10 +11,11 @@ This is the list of essential software for the class, grouped by purpose, with a
 |                               | Microsoft Office     |       |    +    |
 | **Design and Multimedia**     | GIMP                 |   +   |    +    |
 |                               | Inkscape             |   +   |    +    |
-| **Communication and Collaboration** | Slack       |   +   |    +    |
+| **Communication and Collaboration** | Slack          |   +   |    +    |
 |                               | Zoom                 |   +   |    +    |
 | **Data Analysis**             | RStudio              |   +   |    +    |
 |                               | Jupyter Notebook     |   +   |    +    |
 | **Simulation and Modeling**   | MATLAB               |       |    +    |
 |                               | Octave               |   +   |    +    |
 
+Siemens NXCad

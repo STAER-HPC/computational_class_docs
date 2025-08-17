@@ -32,8 +32,16 @@ password: skolstud
 ## Use of Shared Storage
 
 > [!CAUTION]
-> The windows virtual machines has restriction for a given space around 10GB. If you data exceed the limit, please use shared storage.
+> The Windows virtual machines have a **storage limit of ~10GB per user**. If your files exceed this limit, use the **shared storage space**.
 
-The shared storage link is [Shared storage](https://sci.skoltech.ru/eng_class/storage)
+- Save your data in:
+S:\Users\<student.name>
 
+- Create the folder if it does not exist.
+- You can access these files later from:
+  - Any computer in the auditorium
+  - Your personal computer (see [instructions](https://sci.skoltech.ru/eng_class/storage_windows))
 
+## Support
+If you have any issues, contact:
+engineering_auditorium@skoltech.ru
