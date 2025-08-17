@@ -102,9 +102,7 @@ The hostname is given as:
 ## Use of Shared Storage
 
 > [!CAUTION]
-> Local data on the machine will be deleted within 30 days. To save your data, transfer it to your folder on the shared storage system.
-
-   Information regarding the location of the shared storage and access instructions will be provided.
+> Local data on the machine will be deleted within 30 days. To save your data, transfer it to your folder on the shared storage system `/share/Users/<your_dir>`.
 
 ## Continuing Processes in the Background
 
